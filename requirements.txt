@@ -1,0 +1,9 @@
+torch
+opencv-python
+pandas
+easyocr
+matplotlib
+pyyaml
+numpy
+bcrypt
+streamlit

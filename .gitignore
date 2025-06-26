@@ -1,0 +1,16 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+alpr-env/
+
+# Local database and logs
+alpr.db
+alpr_log.csv
+
+# Model weights (optional)
+weights/*.pt
+
+# Training data (optional)
+data/
